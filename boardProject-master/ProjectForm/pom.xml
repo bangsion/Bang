@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 
-	<artifactId>JCH-MVC</artifactId>
+	<artifactId>ProjectForm</artifactId>
 	<name>정충호 개인 프로젝트</name>
 	<url>nextit.or.kr</url>
 	<description>내가 만들고 싶은 프로젝트 ~</description>
