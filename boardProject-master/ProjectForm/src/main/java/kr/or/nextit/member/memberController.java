@@ -7,7 +7,7 @@ public class memberController {
 
 	/**
 	 * @return
-	 * dd
+	 * ddddd
 	 */
 	public String memberList() {
 		return "";
