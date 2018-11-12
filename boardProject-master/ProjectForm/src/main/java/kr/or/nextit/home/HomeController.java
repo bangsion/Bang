@@ -12,13 +12,15 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * jjjh123123123
  * 
  * Handles requests for the application home page.
  */
 @Controller
 public class HomeController {
 
+	/**
+	 * 로거입니다
+	 */
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 
 	/**
