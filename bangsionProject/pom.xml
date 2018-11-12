@@ -159,4 +159,6 @@
             </plugin>
         </plugins>
     </build>
+    <description>bangsionProject
+</description>
 </project>
