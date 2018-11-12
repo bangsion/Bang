@@ -22,5 +22,5 @@ public abstract class comAbstractSupport {
 	@Resource(name = "messageSource")
 	public MessageSource messageSource;
 	
-	//
+	//wqwsqadsadas12123
 }
